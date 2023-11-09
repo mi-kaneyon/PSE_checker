@@ -15,4 +15,6 @@ https://www.meti.go.jp/policy/consumer/seian/denan/
 https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
 
 
+# サンプル画面
 
+![Test Image 1](result.png)
