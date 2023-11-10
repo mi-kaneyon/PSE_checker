@@ -20,6 +20,14 @@ https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
 ![Test Image 1](result.png)
 
 
+# python version command line
+![Test Image 2](search_window.png)
+
+```
+python pse_check.py
+
+```
+
 ## Pyside2 使用しています。
 
 ```
