@@ -21,6 +21,8 @@ https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
 
 
 # python version command line
+- python 版では部分一致検索可能です。また特定電気用品かそれ以外かを強調表示
+
 ![Test Image 2](search_window.png)
 
 ```
