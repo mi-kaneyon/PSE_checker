@@ -40,6 +40,8 @@ Pip install pandas
 pip install pycopy-webbrowser
 
 ```
-
+PySide2 使用の為、LGPLとなり、コピーレフトとなります。ご注意を。
 
 特定電気用品（それ以外）の一覧でうまく部分一致しない場合Webでザックリ検索します。将来はザックリ検索なしにしたいです。
+
+
