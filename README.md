@@ -5,6 +5,22 @@
 - 何でもかんでも通電すればいいものではないです。
 - 罰則規定もありますから注意しましょう。
 
+# excel_splitte.py　（New 17th Dec 2024）
+> [!NOTE]
+>  区分確認ファイルの分割処理をします（前加工用）
+
+```
+
+excel_splitte.py
+
+```
+
+https://www.kanto.meti.go.jp/seisaku/seihin_anzen/index_denanho.html
+
+
+
+
+
 # 参考リンク
 
 https://www.goodgoods.co.jp/pse
