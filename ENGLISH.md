@@ -3,7 +3,6 @@
 
 This tool is tailored for Japan's local regulations. Below is the English version of the README.
 
----
 
 ## Purpose
 
@@ -26,18 +25,24 @@ python excel_splitte.py
 > [!TIP]
 > For more details, please visit the METI (Ministry of Economy, Trade and Industry) website.
 Reference Links
+> https://www.goodgoods.co.jp/pse
+
+
+> 
  
 ## Overview of PSE Mark and Certification
 ### METI Official Resources:
         - Main Page for Electrical Appliance and Material Safety Act
         - DENAN Act Outline
+     https://www.meti.go.jp/policy/consumer/seian/denan/
 
-Sample Screenshots
-Example Output
+     https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
 
-The following shows the generated result files from the splitting process:
 
-Test Image 1
+## Sample Screenshots
+![Test Image 1](result.png)
+
+
 # Python Command Line Features
 
     Partial match search is supported.
