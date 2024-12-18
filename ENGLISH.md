@@ -28,15 +28,15 @@ Reference Links
 > https://www.goodgoods.co.jp/pse
 
 
-> 
+
  
 ## Overview of PSE Mark and Certification
 ### METI Official Resources:
         - Main Page for Electrical Appliance and Material Safety Act
         - DENAN Act Outline
-     https://www.meti.go.jp/policy/consumer/seian/denan/
+https://www.meti.go.jp/policy/consumer/seian/denan/
 
-     https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
+https://www.meti.go.jp/policy/consumer/seian/denan/act_outline.html
 
 
 ## Sample Screenshots
