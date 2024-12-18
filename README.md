@@ -1,7 +1,7 @@
 # PSE_checker
 ## Prototype version
 
-# Japan Localなものなので、日本語で記載します。
+# Japan Localなものなので、日本語で記載します。(Added English readme now)
 - 何でもかんでも通電すればいいものではないです。
 - 罰則規定もありますから注意しましょう。
 
