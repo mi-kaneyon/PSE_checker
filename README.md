@@ -11,19 +11,19 @@
 
 ```
 
-excel_splitte.py
+python excel_splitte.py
 
 ```
 > [!NOTE]
 >  経済産業省謹製リストのシート数のカウントするツール（前加工用）
 
 ```
-sheet_count.py
+python sheet_count.py
 
 ```
 
 ```
-sheet_search.py
+python sheet_search.py
 
 ```
 
