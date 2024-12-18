@@ -14,6 +14,18 @@
 excel_splitte.py
 
 ```
+> [!NOTE]
+>  経済産業省謹製リストのシート数のカウントするツール（前加工用）
+
+```
+sheet_count.py
+
+```
+
+```
+sheet_search.py
+
+```
 
 https://www.kanto.meti.go.jp/seisaku/seihin_anzen/index_denanho.html
 
